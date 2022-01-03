@@ -1,8 +1,5 @@
 <p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/147885499-2ebe9f88-b937-4580-8d7d-8b8a405cb857.png'></p>
 <br>
-<h1 align='center'>Model deploy using Streamlit on Heroku Platform</h1>
-<h2 align='center'></h2>
-<br>
 <p>Rainfall Prediction is one of the difficult and uncertain tasks that have a significant impact on human society. Timely and accurate forecasting can proactively help reduce human and financial loss. This study presents a set of experiments that involve the use of common machine learning techniques to create models that can predict whether it will rain tomorrow or not based on the weather data for that day</p>
 <br>
 <h2>What it does </h2>
