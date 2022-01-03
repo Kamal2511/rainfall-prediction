@@ -5,8 +5,8 @@
 <h2>What it does </h2>
 <p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/147885585-703ea122-20c5-4463-92df-a1191b72611f.png'></p>
 <br>
-<h2>Live Demo</h2>
-<p align='center'><img height='400' src = ''></p>
+<h2>Demo</h2>
+<p align='center'><img height='400' src = 'https://user-images.githubusercontent.com/31500911/147969162-77bf5ecf-3bcc-4e95-a0e8-68617b57f49f.png'></p>
 <br>
 <h2>What has done in model :</h2>
 <ul>
